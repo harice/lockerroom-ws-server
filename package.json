@@ -1,0 +1,13 @@
+{
+  "name": "lockerroom-ws-server",
+  "version": "1.0.0",
+  "description": "Websockets Server for Lockerroom",
+  "main": "server.js",
+  "author": "Harice Dione Quinanola",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
